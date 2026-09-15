@@ -2,6 +2,12 @@
 
 Hands-on AWS architecture lab focused on building a more resilient, scalable, secure, and highly available cloud environment.
 
+## 🏗️ Architecture Diagram
+
+The diagram below represents the target architecture after implementing the availability, scalability, networking, security, and access-control improvements explored during the lab.
+
+![AWS High Availability and Resilient Architecture](architecture-diagram.png)
+
 ## 🎯 Project Objective
 
 The objective of this lab was to identify and fix architectural issues in an AWS environment that could affect availability, scalability, security, and communication between resources.
